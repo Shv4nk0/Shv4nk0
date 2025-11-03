@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Shevchenko Bogdan, web developer from Moscow.
+I'm Bogdan, web developer from Moscow.
 
 ## Skills
 - 👨‍💻 TypeScript/JavaScript
