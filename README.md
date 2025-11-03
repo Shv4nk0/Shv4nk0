@@ -8,8 +8,6 @@ I'm Bogdan, web developer from Moscow.
 - 💽 PostgreSQL, MongoDB
 + a lot more 
 
-## Contact
-- shevchenko.tech@gmail.com on Gmail
 <!--
 **Fac3Hunter/Fac3Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
