@@ -9,7 +9,6 @@ I'm Shevchenko Bogdan, web developer from Moscow.
 + a lot more 
 
 ## Contact
-- [@shevchenk0tech](https://t.me/shevchenk0tech) on Telegram
 - shevchenko.tech@gmail.com on Gmail
 <!--
 **Fac3Hunter/Fac3Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
